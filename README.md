@@ -1,7 +1,7 @@
 ## Lab 3 : Sélection et filtrage de données
 
 ## Script SQL
-
+```
 USE bibliotheque;
 SELECT * FROM auteur;
 SELECT id, nom FROM abonne;
